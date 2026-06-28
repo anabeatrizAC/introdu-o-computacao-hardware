@@ -1,0 +1,4 @@
+Unidade 1
+
+Atividade da Unidade 1
+https://github.com/anabeatrizAC/introducao-a-computacao-/blob/main/UNIDADE%201/Captura%20de%20tela%202026-06-25%20141313.png
